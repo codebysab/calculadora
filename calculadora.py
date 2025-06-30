@@ -1,4 +1,4 @@
-emplementos de código #Equipe: Airlan, Emerson, Luan, Sabrina  
+#Equipe: Airlan, Emerson, Luan, Sabrina  
 # Importando biblioteca
 from tkinter import *
 import re
