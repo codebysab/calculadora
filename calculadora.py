@@ -1,4 +1,3 @@
-#Equipe: Airlan, Emerson, Luan, Sabrina  
 # Importando biblioteca
 from tkinter import *
 import re
